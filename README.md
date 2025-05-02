@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/bb6663a5-cb88-4c89-8b6b-1cafb7dcd13b)![image](https://github.com/user-attachments/assets/065e3cf4-094a-451f-863b-b9c15cbdc71b)# EXNO-5-DS-DATA VISUALIZATION USING MATPLOT LIBRARY
+# EXNO-5-DS-DATA VISUALIZATION USING MATPLOT LIBRARY
 
 # Aim:
   To Perform Data Visualization using matplot python library for the given datas.
@@ -61,4 +61,4 @@ STEP 5:Include Necessary parameters in each functions.
 
 
 # Result:
-
+Thus, all the data visualization techniques of matplotlib has been implemented.
